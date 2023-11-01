@@ -5,6 +5,10 @@
     background-color: #FFCD9E;
     align-self: left;
 }
+
+body{
+    background-color: #FFCD9E;
+}
 .container{
     height: 890px;
     width: 1525px;
